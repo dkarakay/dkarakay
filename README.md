@@ -3,13 +3,15 @@
 </a>
 
 
-<a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=shades-of-purple&layout=compact&hide=html" />
-</a>
+
 
 
 <!--
 **dkarakay/dkarakay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=shades-of-purple&layout=compact&hide=html" />
+</a>
 
 Here are some ideas to get you started:
 
