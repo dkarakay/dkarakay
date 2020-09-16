@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=great-gatsby" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=shades-of-purple" />
 </a>
 <a href="https://lon9.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=great-gatsby&layout=compact&hide=html" />
