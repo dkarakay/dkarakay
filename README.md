@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=dark&hide=html" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=tokyonight&hide=html" />
 </a>
 
 
