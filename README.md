@@ -1,9 +1,9 @@
 <a href="https://karakay.me">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=highcontrast" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=algolia" />
+</a><br/>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkarakay&repo=google-maps-screenshot-taker&theme=buefy)](https://github.com/dkarakay/google-maps-screenshot-taker)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dkarakay&repo=google-maps-screenshot-taker&theme=algolia)](https://github.com/dkarakay/google-maps-screenshot-taker)
 
 
 
