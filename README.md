@@ -1,19 +1,24 @@
+
+
 <a href="https://karakay.me">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=github_dark" />
 </a><br/>
 
+<!--
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dkarakay&repo=google-maps-screenshot-taker&theme=shades-of-purple)](https://github.com/dkarakay/google-maps-screenshot-taker)
+-->
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dkarakay&repo=google-maps-screenshot-taker&theme=algolia)](https://github.com/dkarakay/google-maps-screenshot-taker)
+<br/>
 
-
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=github_dark&layout=compact&langs_count=8hide=html" />
+</a>
 
 <!--
 **dkarakay/dkarakay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-<a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=shades-of-purple&layout=compact&hide=html" />
-</a>
 -->
+
+
 <!--
 Here are some ideas to get you started:
 
