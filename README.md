@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=github_dark&layout=compact&langs_count=8hide=html" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkarakay&theme=github_dark&layout=compact&langs_count=8&hide=html" />
 </a>
 
 <!--
