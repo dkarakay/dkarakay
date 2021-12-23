@@ -3,7 +3,13 @@
 
 <a href="https://karakay.me">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=github_dark" />
-</a><br/>
+</a>
+
+<br/> 
+<br/> 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkarakay&theme=elegant)](https://git.io/streak-stats)
 
 <!--
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dkarakay&repo=google-maps-screenshot-taker&theme=shades-of-purple)](https://github.com/dkarakay/google-maps-screenshot-taker)
