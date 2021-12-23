@@ -11,6 +11,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkarakay&theme=elegant)](https://git.io/streak-stats)
 
+
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=dkarakay&theme=elegant" /></div>
+<div  align="center"> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
+
+
+
+
 <!--
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dkarakay&repo=google-maps-screenshot-taker&theme=shades-of-purple)](https://github.com/dkarakay/google-maps-screenshot-taker)
 -->
