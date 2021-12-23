@@ -1,4 +1,5 @@
 
+![](https://komarev.com/ghpvc/?username=dkarakay&color=orange)
 
 <a href="https://karakay.me">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=github_dark" />
