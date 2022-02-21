@@ -18,11 +18,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkarakay&theme=elegant)](https://git.io/streak-stats)
 <br/> 
 
-
+<!--
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=dkarakay&theme=elegant" /></div>
 <br/> 
+-->
 
-<div  align="center"> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
+<div> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
 
 <br/>
 
