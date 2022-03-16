@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Karakay</h1>
 
-- 📫 How to reach me **deniz@karakay.me**
+📫 How to reach me **deniz@karakay.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
