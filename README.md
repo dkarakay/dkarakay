@@ -8,8 +8,6 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Karakay</h1>
 
-<p align="left"> <a href="https://twitter.com/karakaydeniz" target="blank"><img src="https://img.shields.io/twitter/follow/karakaydeniz?logo=twitter&style=for-the-badge" alt="karakaydeniz" /></a> </p>
-
 - 📫 How to reach me **deniz@karakay.me**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +19,7 @@
 <a href="https://www.youtube.com/c/dkarakay402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dkarakay402" height="30" width="40" /></a>
 </p>
 
-
+<p align="left"> <a href="https://twitter.com/karakaydeniz" target="blank"><img src="https://img.shields.io/twitter/follow/karakaydeniz?logo=twitter&style=for-the-badge" alt="karakaydeniz" /></a> </p>
 
 
 <a href="https://karakay.me">
@@ -36,8 +34,11 @@
 
 <br/> 
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkarakay&theme=elegant)](https://git.io/streak-stats)
 <br/> 
+
+-->
 
 ![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
 <br/>
