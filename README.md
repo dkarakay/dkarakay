@@ -18,10 +18,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkarakay&theme=elegant)](https://git.io/streak-stats)
 <br/> 
 
-<!--
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=dkarakay&theme=elegant" /></div>
-<br/> 
--->
 
 <!--
 <div> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
@@ -30,3 +26,7 @@
 
 ![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.svg)
 <br/>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/denizkarakay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="denizkarakay" /></a></p><br><br>
