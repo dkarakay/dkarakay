@@ -34,10 +34,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/denizkarakay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="denizkarakay" /></a></p><br><br>
 
+<br/> 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkarakay&theme=elegant)](https://git.io/streak-stats)
 <br/> 
 
-![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.svg)
+![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
 <br/>
 <!--
 
