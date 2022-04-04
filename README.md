@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/karakaydeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karakaydeniz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deniz-karakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniz-karakay" height="30" width="40" /></a>
-<a href="https://instagram.com/deniz.karakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deniz.karakay" height="30" width="40" /></a>
+<a href="https://instagram.com/karakay.deniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deniz.karakay" height="30" width="40" /></a>
 <a href="https://medium.com/@dkarakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dkarakay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/dkarakay402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dkarakay402" height="30" width="40" /></a>
 </p>
