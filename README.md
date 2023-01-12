@@ -27,8 +27,10 @@
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dkarakay&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
+<br/>
+
 <a href="https://karakay.me">
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dkarakay&layout=compact"
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dkarakay&layout=compact&theme=github_dark" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
