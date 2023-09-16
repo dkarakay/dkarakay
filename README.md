@@ -47,7 +47,7 @@
 
 -->
 
-![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
+![](https://github.com/dkarakay/dkarakay/blob/output/ocean.gif)
 <br/>
 <!--
 
