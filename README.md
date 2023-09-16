@@ -46,8 +46,15 @@
 <br/> 
 
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dkarakay/dkarakay/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dkarakay/dkarakay/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-![](https://github.com/dkarakay/dkarakay/blob/output/ocean.gif)
+
+
+<!--![](https://github.com/dkarakay/dkarakay/blob/output/ocean.gif)-->
 <br/>
 <!--
 
@@ -57,8 +64,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 -->
-
-
 
 
 
