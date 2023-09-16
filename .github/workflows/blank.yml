@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
           
-      - uses: Platane/snk@master@v3
+      - uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
