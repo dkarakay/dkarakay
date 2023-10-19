@@ -47,7 +47,7 @@
 
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dkarakay/dkarakay/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dkarakay/dkarakay/blob/output/halloween.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/dkarakay/dkarakay/blob/output/halloween.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
