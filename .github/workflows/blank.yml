@@ -26,8 +26,8 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/halloween-dark.svg?color_snake=#9309e8&color_dots=#5b210c,#b15d2f,#ea8137,#e8a410,#fffae3
             dist/halloween.svg?color_snake=#9309e8&color_dots=#fffae3,#e8a410,#ea8137,#b15d2f,#5b210c
-            dist/christmas-dark.svg?color_snake=#e6dcb1&color_dots=#114f3e,#337862,#df5628,#ce3805,#7e121d
-            dist/christmas.svg?color_snake=#e6dcb1&color_dots=#7e121d,#ce3805,#df5628,#337862,#114f3e
+            dist/christmas-dark.svg?color_snake=#e6dcb1&color_dots=#114f3e,#337862,#ce3805,#db041a,#7e121d
+            dist/christmas.svg?color_snake=#e6dcb1&color_dots=#7e121d,#db041a,#df5628,#337862,#114f3e
 
         env:
           # a github token is required to fetch the contribution calendar from github API
